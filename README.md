@@ -11,8 +11,8 @@ I am a passionate developer who loves building web applications and exploring ne
 - 💬 Ask me about *React, JavaScript, or Web Development*
 - 📫 How to reach me: *[lubnarimi612@gmail.com]*
 - ⚡ Fun fact: *I spend more time naming variables than writing code!*
+- 
 #🛠️ Skills:
-
 .html5
 .css
 .JavaScript
@@ -20,4 +20,5 @@ I am a passionate developer who loves building web applications and exploring ne
 .Web Development 
 
 ### 🌐 Connect with me:
-LinkedIn-https://www.linkedin.com/in/lobna-rimiFacebook-https-https://www.facebook.com/lubna.khanm.rimi
+LinkedIn-https://www.linkedin.com/in/lobna-rimi
+Facebook-https://www.facebook.com/lubna.khanm.rimi
