@@ -1,4 +1,4 @@
-ক# Hi there, I'm Lobna Khanam Rimi 👋
+# Hi there, I'm Lobna Khanam Rimi 👋
 🎓 Diploma Student in Computer Science & Technology (CST)
 💻 Aspiring Web Developer
 
