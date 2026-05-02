@@ -1,7 +1,8 @@
-# Hi there, I'm Lobna Khanam Rimi 👋
+ক# Hi there, I'm Lobna Khanam Rimi 👋
 🎓 Diploma Student in Computer Science & Technology (CST)
 💻 Aspiring Web Developer
- Welcome to My Profile
+
+ -Welcome to My Profile
  
  ### 💫 About Me
 I am a passionate aspiring Web Developer currently focusing on building responsive and user-friendly web applications. I love turning ideas into code and am constantly exploring new technologies to enhance my skill set.
