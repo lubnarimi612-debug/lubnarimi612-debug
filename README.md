@@ -1,8 +1,8 @@
 Hi, I'm Lobna Khanam Rimi👋
+🎓 CST Student
+💻 Aspiring Web Developer
 
-### 🚀 Full Stack Developer 
-
-I am a passionate developer who loves building web applications and exploring new technologies. I believe in continuous learning and creating impactful digital experiences.
+ Welcome to My Profile
 
 💫 About Me:
  I’m currently working on *[B13-AS-6]*
