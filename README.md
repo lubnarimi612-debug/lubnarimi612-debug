@@ -1,4 +1,4 @@
-# Hi there, I'm Lobna Khanam Rimi 👋
+o# Hi there, I'm Lobna Khanam Rimi 👋
 🎓 Diploma Student in Computer Science & Technology (CST)
 💻 Aspiring Web Developer
 
@@ -15,6 +15,8 @@ I am a passionate aspiring Web Developer currently focusing on building responsi
 •JavaScript
 •react.js
 •Web Development 
+•Redux
+•Mongobd
 
 ### 🌐 Connect with me:
 LinkedIn-https://www.linkedin.com/in/lobna-rimi
