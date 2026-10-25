@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./wide_cinematic_high_resolution_tech_themed_banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer">
+  <img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer">
 </div>
 
 
