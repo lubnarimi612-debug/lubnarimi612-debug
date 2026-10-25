@@ -1,11 +1,6 @@
 
 <div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi</div>
 
-
-🌸 Hi, I'm Lobna Khanam Rimi!
-💻 Aspiring Front-End Developer
-Turning ideas into beautiful digital experiences.
-
 🖤 ABOUT ME
 
 Hello! I'm Lobna Khanam Rimi, a Diploma in Computer Engineering student passionate about Front-End Development.
