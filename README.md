@@ -1,5 +1,6 @@
 
-<div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer"/><br/>👩‍💻 LOBNA KHANAM RIMI</div>---
+<div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi</div>
+
 
 🌸 Hi, I'm Lobna Khanam Rimi!
 💻 Aspiring Front-End Developer
