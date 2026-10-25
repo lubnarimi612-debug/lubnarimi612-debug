@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./wide_cinematic_high_resolution_tech_themed_banner.png" width="100%" alt="Lobna Khanam Rimi - Front-End Developer">
+</div>
+
+
 # Hi, I'm Lobna Khanam Rimi 👋
 🎓 Diploma Student in Computer Science & Technology (CST)
 💻 Aspiring Web Developer
