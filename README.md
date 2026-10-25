@@ -2,12 +2,7 @@
 <!-- <div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi</div> -->
 <div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi -><br/>
 
- Aspiring Front-End Developer
 
-Building Responsive & User-Friendly Web Experiences
-
-""GitHub" (https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/lubnarimi612-debug)
-""Profile Views" (https://komarev.com/ghpvc/?username=lubnarimi612-debug&style=for-the-badge&color=red)" (https://github.com/lubnarimi612-debug)
 
 </div>---
 
@@ -75,9 +70,6 @@ Exploring website structures, visual layouts, and modern design ideas.
 
 </div>---
 
-📊 GITHUB STATISTICS
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=lubnarimi612-debug&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&border_color=FF3333&hide_border=false" alt="GitHub Stats"/><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubnarimi612-debug&layout=compact&theme=dark&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF&border_color=FF3333&hide_border=false" alt="Top Languages"/></div>---
 
 🔥 CONTRIBUTION STREAK
 
@@ -94,13 +86,8 @@ Exploring website structures, visual layouts, and modern design ideas.
 
 ---
 
-📫 CONNECT WITH ME
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Visit_My_Profile-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/lubnarimi612-debug)
 
-Thanks for visiting my profile!
-
-"CODE" 🔴 "CREATE" 🔴 "GROW"
 
 Small steps every day lead to big achievements.
 
