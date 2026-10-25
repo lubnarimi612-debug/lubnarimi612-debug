@@ -1,9 +1,8 @@
 
-<div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi</div>
+<!-- <div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi</div> -->
+<div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi -><br/>
 
-<div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer"/><br/>👩‍💻 LOBNA KHANAM RIMI
-
-"</>" Aspiring Front-End Developer
+ Aspiring Front-End Developer
 
 Building Responsive & User-Friendly Web Experiences
 
