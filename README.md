@@ -1,16 +1,9 @@
-<div align="center">
-  <img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer">
-</div>
 
 <div align="center"><img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer"/><br/>👩‍💻 LOBNA KHANAM RIMI
 
 "</>" Aspiring Front-End Developer
 
 Building Responsive & User-Friendly Web Experiences
-
-""GitHub" (https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/lubnarimi612-debug)
-""Profile Views" (https://komarev.com/ghpvc/?username=lubnarimi612-debug&style=for-the-badge&color=red)" (https://github.com/lubnarimi612-debug)
-
 </div>---
 
 🖤 ABOUT ME
@@ -57,25 +50,7 @@ These bars are illustrative, not measured skill ratings.
 
 ---
 
-🚀 MY PROJECTS
-
-I'm building projects to improve my Front-End Development skills.
-
-💻 HTML & CSS Practice
-
-Practicing website layouts, styling, Flexbox, and responsive design.
-
-📝 Form Design
-
-Learning to create clean and user-friendly web forms.
-
-🎨 Landing Page Practice
-
 Exploring website structures, visual layouts, and modern design ideas.
-
-<div align="center">""Explore My Repositories" (https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-FF2D2D?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/lubnarimi612-debug?tab=repositories)
-
-</div>---
 
 📊 GITHUB STATISTICS
 
@@ -94,8 +69,9 @@ Exploring website structures, visual layouts, and modern design ideas.
 ---
 
 📫 CONNECT WITH ME
+LinkedIn-https://www.linkedin.com/in/lobna-rimi
+Facebook-https://www.facebook.com/lubna.khanm.
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-Visit_My_Profile-000000?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/lubnarimi612-debug)
 
 Thanks for visiting my profile!
 
@@ -103,10 +79,5 @@ Thanks for visiting my profile!
 
 Small steps every day lead to big achievements.
 
-</div>
-### 🌐 Connect with me:
-LinkedIn-https://www.linkedin.com/in/lobna-rimi
-Facebook-https://www.facebook.com/lubna.khanm.
 
-fun fact: *I spend more time naming variables than writing code!*
 
