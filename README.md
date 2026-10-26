@@ -1,3 +1,8 @@
+       ## 🌐 My Portfolio
+
+[![View My Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white)](https://lubnarimi612-debug.github.io/My-portfolio/)
+
+
 <div align="center">
   <img src="./banner.jpeg" width="100%" alt="Lobna Khanam Rimi - Front-End Developer"/>  <h1>👩‍💻 LOBNA KHANAM RIMI</h1>
   <h3>&lt;/&gt; Aspiring Front-End Developer</h3>
